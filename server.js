@@ -30,6 +30,6 @@ app.get('/docs',(req,res)=>{
     ]});
 })
 
-app.listen(4000,()=>{
-    console.log("server started at 4000 port")
+app.listen(PORT,()=>{
+    console.log(`server started at ${PORT} port`)
 });
