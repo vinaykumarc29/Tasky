@@ -2,6 +2,8 @@
 
 A lightweight RESTful API for managing tasks, built with Node.js, Express, and MongoDB.
 
+🚀🚀Deployed Link : https://tasky-nwzl.onrender.com
+
 ## Getting Started
 
 ### 1. Prerequisites
